@@ -1,2 +1,2 @@
 # CatPhotoApp
-Recreating the CatPhotoApp from freeCodeCamp
+Recreating the CatPhotoApp from freeCodeCamp using HTML
